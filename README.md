@@ -7,9 +7,9 @@
  - Gunakan fungsi map pada
    books yang sudah ter-filter, untuk mengembalikan nilai string dengan
    format:
+   
+   
     ` ${author} adalah penulis buku ${title} yang sangat hebat!`
-
-
  
 
 >   Catatan: Jangan ubah nilai atau struktur dari books
