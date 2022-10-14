@@ -1,5 +1,7 @@
 
  **Challenge**
+ 
+ 
  Buatlah variabel greatAuthors yang merupakan array berdasarkan hasil filter() dan map() dari books:
 
  - Gunakan fungsi filter untuk mengembalikan nilai item books yang hanya
